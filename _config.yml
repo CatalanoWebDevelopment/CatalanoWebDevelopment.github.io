@@ -1,0 +1,21 @@
+# Site settings
+title: The Art of Code
+header-img: img/home-bg.png
+email: catalano.work@gmail.com
+copyright_name: CatalanoWebDevelopment
+description: > # this means to ignore newlines until "baseurl:"
+  Why make something tough when it can be so beautiful?
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  CatalanoWebDevelopment
+learn_profile: CatalanoWebDevelopment
+email_username: catalano.work@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
