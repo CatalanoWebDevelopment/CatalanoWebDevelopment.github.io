@@ -5,7 +5,7 @@ date:       2017-10-08 15:04:16 -0400
 permalink:  how_do_i_enter_the_matrix
 ---
 
-## *Walking Into the World of Neo *
+## Walking Into the World of Neo 
 
 *By, Parker K. Catalano 10/08/2017*
 > ![](https://i.pinimg.com/564x/6a/b3/88/6ab38806e3b90be230d6ad325ab00869.jpg)
