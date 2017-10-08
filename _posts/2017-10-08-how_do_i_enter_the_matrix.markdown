@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**How do I "Enter the Matrix?!"**"
+title:      "How do I "Enter the Matrix?!""
 date:       2017-10-08 15:04:16 -0400
 permalink:  how_do_i_enter_the_matrix
 ---
