@@ -7,7 +7,7 @@ permalink:  how_do_i_enter_the_matrix
 
 ## Waking Up to Reality
 
-*By, Parker K. Catalano 10/08/2017*
+*By, Parker K. Catalano*
 > ![](https://i.pinimg.com/564x/6a/b3/88/6ab38806e3b90be230d6ad325ab00869.jpg)
 > 
 
