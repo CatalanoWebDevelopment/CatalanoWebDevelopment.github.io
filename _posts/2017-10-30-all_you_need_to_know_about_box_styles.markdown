@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "All You Need to Know About Box Styles "
-date:       2017-10-30 20:07:41 +0000
+date:       2017-10-30 16:07:41 -0400
 permalink:  all_you_need_to_know_about_box_styles
 ---
 
