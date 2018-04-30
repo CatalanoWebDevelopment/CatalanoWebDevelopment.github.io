@@ -57,6 +57,11 @@ Explained:
 <li>DrinkMix has_many :recipes, through: :drink_mix_recipes</li>
 </ul>
 
+<ul>
+<li>DrinkMixRecipe belongs_to :recipe</li>
+<li>DrinkMixRecipe belongs_to :drink_mix</li>
+</ul>
+
 
 
 These migrations provided to be quite the challenge when it came to routing and custom resources. The project called for various nested routes, with a "user-submittable attribute" on the join table of one of my many_to_many associations. For this, I chose "Rank" on the join table of drink_mix_recipes. This effectively allowed the user to rate their recipes on a scale of 1 to 10: 
